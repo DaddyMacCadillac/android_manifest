@@ -93,6 +93,7 @@
   <project path="system/sepolicy" name="android_system_sepolicy" remote="codewalkerster" />
   <project path="system/vold" name="android_system_vold" remote="codewalkerster" />
   <project path="prebuilts/abi-dumps/vndk" name="android_prebuilts_abi-dumps_vndk" remote="codewalkerster" />
+  <project path="vendor/hardkernel/interfaces" name="android_vendor_hardkernel_interfaces" remote="codewalkerster" />
   <project path="vendor/widevine" name="android_vendor_widevine" remote="codewalkerster" />
 
   <!-- u-boot -->
