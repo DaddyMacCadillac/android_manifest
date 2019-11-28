@@ -28,7 +28,6 @@ $ prebuilts/misc/linux-x86/ccache/ccache -M 50G
 
 ```
 $ export ANDROID_BUILD_TYPE=64
-$ export TARGET_DYNAMIC_ZYGOTE_SECONDARY_ENABLE=true
 ```
 
 #### __Select the target device:__
