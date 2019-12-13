@@ -80,25 +80,25 @@
   <project path="vendor/secuflag" name="android_vendor_secuflag" remote="odroid-n2" />
   
   <!-- projects added/changed by codewalkerster and HK -->
-  <project name="android_hardware_broadcom_libbt" path="hardware/broadcom/libbt" remote="codewalkerster" />
-  <project name="android_hardware_amlogic_audio" path="hardware/amlogic/audio" remote="codewalkerster" />
-  <project name="android_hardware_amlogic_bluetooth" path="hardware/amlogic/bluetooth" remote="codewalkerster" />
-  <project name="android_hardware_amlogic_bootctrl" path="hardware/amlogic/bootctrl" remote="codewalkerster" />
-  <project name="android_hardware_amlogic_camera" path="hardware/amlogic/camera" remote="codewalkerster" />
-  <project name="android_hardware_amlogic_gatekeeper" path="hardware/amlogic/gatekeeper" remote="codewalkerster" />
-  <project name="android_hardware_amlogic_gralloc" path="hardware/amlogic/gralloc" remote="codewalkerster" />
-  <project name="android_hardware_amlogic_hdmi_cec" path="hardware/amlogic/hdmi_cec" remote="codewalkerster" />
-  <project name="android_hardware_amlogic_hwcomposer" path="hardware/amlogic/hwcomposer" remote="codewalkerster" />
-  <project name="android_hardware_amlogic_keymaster" path="hardware/amlogic/keymaster" remote="codewalkerster" />
-  <project name="android_hardware_amlogic_LibAudio" path="hardware/amlogic/LibAudio" remote="codewalkerster" />
-  <project name="android_hardware_amlogic_media_modules" path="hardware/amlogic/media_modules" remote="codewalkerster" />
-  <project name="android_hardware_amlogic_media" path="hardware/amlogic/media" remote="codewalkerster" />
-  <project name="android_hardware_amlogic_memtrack" path="hardware/amlogic/memtrack" remote="codewalkerster" />
-  <project name="android_hardware_amlogic_power" path="hardware/amlogic/power" remote="codewalkerster" />
-  <project name="android_hardware_amlogic_screen_source" path="hardware/amlogic/screen_source" remote="codewalkerster" />
-  <project name="android_hardware_amlogic_thermal" path="hardware/amlogic/thermal" remote="codewalkerster" />
-  <project name="android_hardware_amlogic_tv_input" path="hardware/amlogic/tv_input" remote="codewalkerster" />
-  <project name="android_hardware_amlogic_wifi" path="hardware/amlogic/wifi" remote="codewalkerster" />
+  <project path="hardware/broadcom/libbt" name="android_hardware_broadcom_libbt"  remote="codewalkerster" />
+  <project path="hardware/amlogic/audio" name="android_hardware_amlogic_audio" remote="codewalkerster" />
+  <project path="hardware/amlogic/bluetooth" name="android_hardware_amlogic_bluetooth" remote="codewalkerster" />
+  <project path="hardware/amlogic/bootctrl" name="android_hardware_amlogic_bootctrl" remote="codewalkerster" />
+  <project path="hardware/amlogic/camera" name="android_hardware_amlogic_camera" remote="codewalkerster" />
+  <project path="hardware/amlogic/gatekeeper" name="android_hardware_amlogic_gatekeeper" remote="codewalkerster" />
+  <project path="hardware/amlogic/gralloc" name="android_hardware_amlogic_gralloc" remote="codewalkerster" />
+  <project path="hardware/amlogic/hdmi_cec" name="android_hardware_amlogic_hdmi_cec" remote="codewalkerster" />
+  <project path="hardware/amlogic/hwcomposer" name="android_hardware_amlogic_hwcomposer" remote="codewalkerster" />
+  <project path="hardware/amlogic/keymaster" name="android_hardware_amlogic_keymaster" remote="codewalkerster" />
+  <project path="hardware/amlogic/LibAudio" name="android_hardware_amlogic_LibAudio" remote="codewalkerster" />
+  <project path="hardware/amlogic/media_modules" name="android_hardware_amlogic_media_modules" remote="codewalkerster" />
+  <project path="hardware/amlogic/media" name="android_hardware_amlogic_media" remote="codewalkerster" />
+  <project path="hardware/amlogic/memtrack" name="android_hardware_amlogic_memtrack" remote="codewalkerster" />
+  <project path="hardware/amlogic/power" name="android_hardware_amlogic_power" remote="codewalkerster" />
+  <project path="hardware/amlogic/screen_source" name="android_hardware_amlogic_screen_source" remote="codewalkerster" />
+  <project path="hardware/amlogic/thermal" name="android_hardware_amlogic_thermal" remote="codewalkerster" />
+  <project path="hardware/amlogic/tv_input" name="android_hardware_amlogic_tv_input" remote="codewalkerster" />
+  <project path="hardware/amlogic/wifi" name="android_hardware_amlogic_wifi" remote="codewalkerster" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="codewalkerster" />
   <project path="bootloader/uboot" name="u-boot" remote="hardkernel" revision="odroidn2-v2015.01" />
   <project path="external/libvpx" name="android_external_libvpx" remote="codewalkerster" />
