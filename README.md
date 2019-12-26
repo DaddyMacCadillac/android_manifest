@@ -30,6 +30,12 @@ $ prebuilts/misc/linux-x86/ccache/ccache -M 50G
 $ export ANDROID_BUILD_TYPE=64
 ```
 
+#### __To build for the 4GB RAM board:__
+
+```
+$ export TARGET_BOARD_4GB=true
+```
+
 #### __Select the target device:__
 
 ```
