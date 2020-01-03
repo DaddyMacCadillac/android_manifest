@@ -65,7 +65,6 @@
   <project path="packages/apps/ManagedProvisioning" name="android_packages_apps_ManagedProvisioning" remote="odroid-n2" />
   <project path="packages/apps/OdroidSettings" name="android_packages_apps_OdroidSettings" revision="odroidn2-pie" remote="odroid-n2" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="odroid-n2" />
-  <project path="packages/apps/Terminal" name="android_packages_apps_Terminal" remote="odroid-n2" />
   <project path="packages/apps/TvSettings" name="android_packages_apps_TvSettings" remote="odroid-n2" />
   <project path="packages/providers/DownloadProvider" name="android_packages_providers_DownloadProvider" remote="odroid-n2" />
   <project path="packages/providers/TvProvider" name="android_packages_providers_TvProvider" remote="odroid-n2" />
